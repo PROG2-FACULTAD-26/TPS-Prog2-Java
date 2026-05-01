@@ -39,4 +39,8 @@ public class Seccion1Arrays {
         int posicion = Arrays.binarySearch(nombres, nombreBuscado);
         System.out.println("El nombre '" + nombreBuscado + "' se encuentra en el indice: " + posicion);
     }
+
+    public static void main(String[] args) {
+        ejecutar();
+    }
 }

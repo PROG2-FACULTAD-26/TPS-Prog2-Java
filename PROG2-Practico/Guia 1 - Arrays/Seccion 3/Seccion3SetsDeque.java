@@ -52,4 +52,8 @@ public class Seccion3SetsDeque {
         System.out.println("Elemento removido del final: " + ultimoElemento);
         System.out.println("Estado final del ArrayDeque: " + deque);
     }
+
+    public static void main(String[] args) {
+        ejecutar();
+    }
 }

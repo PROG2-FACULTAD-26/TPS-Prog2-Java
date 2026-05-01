@@ -34,4 +34,8 @@ public class Seccion5Ordenamiento {
             System.out.println("  " + e);
         }
     }
+
+    public static void main(String[] args) {
+        ejecutar();
+    }
 }

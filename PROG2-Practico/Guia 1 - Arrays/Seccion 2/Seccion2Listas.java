@@ -48,4 +48,8 @@ public class Seccion2Listas {
         mutableList.add(1, "Naranja");
         System.out.println("LinkedList tras inserción en el medio: " + mutableList);
     }
+
+    public static void main(String[] args) {
+        ejecutar();
+    }
 }

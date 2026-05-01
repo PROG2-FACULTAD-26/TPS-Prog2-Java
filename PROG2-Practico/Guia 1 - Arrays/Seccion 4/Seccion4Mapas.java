@@ -43,4 +43,8 @@ public class Seccion4Mapas {
             System.out.println("ID: " + id + " - Nombre: " + usuariosOrdenados.get(id));
         }
     }
+
+    public static void main(String[] args) {
+        ejecutar();
+    }
 }
